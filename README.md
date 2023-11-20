@@ -20,7 +20,7 @@ Forkify is a recipe application that allows users to search for recipes, save th
 - MVC (Model-View-Controller) architecture
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/forkify-app.git`
+1. Clone the repository: `git clone https://github.com/mandip47/forkify-app.git`
 2. Navigate to the project directory: `cd forkify`
 3. Install dependencies: `npm install`
 
